@@ -1,0 +1,45 @@
+:root {
+    --primary-color: antiquewhite;
+    --secondary-color: rgb(36, 36, 36);
+}
+
+body {
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    font-family: 'Space Mono', monospace;
+}
+
+a {
+    color: hotpink;
+}
+
+h1 {
+    margin-bottom: -5%;
+    color: var(--primary-color);
+}
+
+div {
+    display: flex;
+    border-radius: 10px;
+    max-width: 80%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.outer-div {
+    margin-top: 10%;
+    outline-width: thin;
+    outline-style: auto;
+    outline-color: var(--primary-color);
+}
+
+.link-container-div {
+    margin-bottom: 3%;
+}
+
+.link-div {
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
