@@ -2,7 +2,7 @@
 
 A place where you can find nice dev-logs, my connections, games and much more!
 
-> Version 0.1.3
+> Version 0.1.4
 
 ## Changelog
 
